@@ -40,4 +40,12 @@ a{
     font-weight: lighter;
 }
 
+/*------Font-Family--------------------------*/
+#one{
+    font-family: cursive;
+}
+
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
