@@ -49,3 +49,13 @@ a{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/*----line-height(decide the height of text)-------*/
+#four{
+    line-height: 30px;
+}
+
+/*------------text-transform(uppercase/lowercase/capitalize/none)----------*/
+#five{
+    text-transform: uppercase;
+} 
+
